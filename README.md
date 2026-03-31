@@ -142,7 +142,6 @@ ai-site-builder/
 
 **Abhinav Mishra**
 - LinkedIn: [linkedin.com/in/abhinav-mishra-00806b230](https://linkedin.com/in/abhinav-mishra-00806b230)
-- GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
